@@ -28,6 +28,20 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
         },
         {
+          "id": "site-1766474886678",
+          "name": "Google",
+          "url": "https://www.google.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com"
+        },
+        {
+          "id": "site-1766474980115",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
