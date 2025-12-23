@@ -24,7 +24,7 @@ export const mockData = {
           "id": "site-1766474886678",
           "name": "Google",
           "url": "https://www.google.com/",
-          "description": "",
+          "description": "Google搜索",
           "icon": "https://www.faviconextractor.com/favicon/www.google.com"
         },
         {
