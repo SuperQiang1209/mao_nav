@@ -10,14 +10,14 @@ export const mockData = {
           "id": "site-1766474630970",
           "name": "甘棠DevOps平台",
           "url": "https://devops4.gantcloud.com/",
-          "description": "",
+          "description": "DevOps 4.0",
           "icon": "https://devops4.gantcloud.com/favicon.ico"
         },
         {
           "id": "site-1766474685958",
           "name": "云效",
           "url": "https://devops.aliyun.com/",
-          "description": "",
+          "description": "一站式DevOps平台",
           "icon": "https://devops.aliyun.com/favicon.ico"
         },
         {
