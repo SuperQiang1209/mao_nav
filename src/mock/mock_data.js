@@ -85,6 +85,20 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1766475379080",
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/",
+          "description": "给DeepSeek发送消息",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "site-1766475456742",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "字节跳动旗下 AI 智能助手",
+          "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon.png"
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
