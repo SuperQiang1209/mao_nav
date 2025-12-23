@@ -21,6 +21,13 @@ export const mockData = {
           "icon": "https://devops.aliyun.com/favicon.ico"
         },
         {
+          "id": "site-1766474835797",
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
