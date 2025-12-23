@@ -7,6 +7,20 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1766474630970",
+          "name": "甘棠DevOps平台",
+          "url": "https://devops4.gantcloud.com/",
+          "description": "",
+          "icon": "https://devops4.gantcloud.com/favicon.ico"
+        },
+        {
+          "id": "site-1766474685958",
+          "name": "云效",
+          "url": "https://devops.aliyun.com/",
+          "description": "",
+          "icon": "https://devops.aliyun.com/favicon.ico"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
@@ -481,6 +495,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
-  "_fileSha": "b03d0407ec06ac7f254abf6645ac0425a8e74a92"
+  "title": "猫猫导航🐱"
 }
