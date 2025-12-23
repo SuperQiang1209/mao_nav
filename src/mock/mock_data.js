@@ -21,13 +21,6 @@ export const mockData = {
           "icon": "https://devops.aliyun.com/favicon.ico"
         },
         {
-          "id": "site-1766474835797",
-          "name": "Cloudflare",
-          "url": "https://dash.cloudflare.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/dash.cloudflare.com"
-        },
-        {
           "id": "site-1766474886678",
           "name": "Google",
           "url": "https://www.google.com/",
@@ -42,6 +35,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
         },
         {
+          "id": "linux-do",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux技术社区，Peace and Love",
+          "icon": "/sitelogo/linux.do.ico"
+        },
+        {
           "id": "site-1752649007053",
           "name": "BeJson",
           "url": "https://www.bejson.com/",
@@ -49,11 +49,11 @@ export const mockData = {
           "icon": "/sitelogo/www.bejson.com.ico"
         },
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
           "id": "site-1752857783656",
@@ -127,13 +127,6 @@ export const mockData = {
       "icon": "☁️",
       "order": 2,
       "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
         {
           "id": "vercel",
           "name": "Vercel",
